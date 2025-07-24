@@ -1,6 +1,6 @@
 /* banner */
 .banner-head{
-    background-image: url("/img/banner.png");
+    background-image: url("img/banner.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,14 +10,14 @@
 }
 @media (max-width: 765px) {
     .banner-head{
-        background-image: url("/img/banner-sm.png");
+        background-image: url("img/banner-sm.png");
     }
     .banner-text{
         padding: 147px 24px;
     }
 }
 .banner-co{
-    background-image: url("/img/banner-co-branded.png");
+    background-image: url("img/banner-co-branded.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,25 +41,25 @@
     left: 0;
 }
 .card-product6{
-    background-image: url(/img/product-6.png);
+    background-image: url(img/product-6.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;  
 }
 .card-product11{
-    background-image: url(/img/product-11.png);
+    background-image: url(img/product-11.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;   
 }
 .card-product9{
-    background-image: url(/img/product-9.png);
+    background-image: url(img/product-9.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .card-product10{
-    background-image: url(/img/product-10.png);
+    background-image: url(img/product-10.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;   
