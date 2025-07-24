@@ -91,22 +91,22 @@
 
 .sparkle{
     position: absolute;
-    top: 250%;
-    left: 70%;
+    top: 55%;
+    left: 75%;
 }
 .star{
     position: absolute;
-    top: -50%;
-    left: 18%;
+    top: 5%;
+    left: 15%;
 }
 @media (max-width: 765px) {
     .sparkle{
-        top: 160%;
+        top: 60%;
         left: 80%;
     }
     .star{
-        top: -15%;
-        left: -5%;
+        top: 5%;
+        left: 20%;
     }
 }
 
