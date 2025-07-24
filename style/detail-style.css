@@ -10,23 +10,7 @@
     padding-left: 4px;
     padding-right: 4px;
 }
-@media (max-width:767px) {
-    .overflow-md-auto{
-        overflow-x: auto;
-    }
-    .flex-md-shrink0{
-        flex-shrink: 0;
-    }
-    .row-md-flow{
-        display: flex;
-        flex-wrap: nowrap;
-        margin-left: -8px;
-        margin-right: -8px;
-    }
-    .w-md-300{
-        width: 300px;
-    }
-}
+
 
 /* 產品價格 */
 .del-price{
