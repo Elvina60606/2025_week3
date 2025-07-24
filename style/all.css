@@ -405,6 +405,10 @@ body{
         padding-left: 8px;
         padding-right: 8px;
     }
+    .px-md-16{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
     .py-md-32{
         padding-top: 32px;
         padding-bottom: 32px;
@@ -607,4 +611,7 @@ body{
 }
 .bb-line{
     border-bottom: 1px solid var(--neutral-300);
+}
+.position-relative{
+    position: relative;
 }

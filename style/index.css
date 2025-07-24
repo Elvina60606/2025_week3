@@ -89,7 +89,24 @@
     }
 }
 
-
-
-
+.sparkle{
+    position: absolute;
+    top: 250%;
+    left: 70%;
+}
+.star{
+    position: absolute;
+    top: -50%;
+    left: 18%;
+}
+@media (max-width: 765px) {
+    .sparkle{
+        top: 160%;
+        left: 80%;
+    }
+    .star{
+        top: -15%;
+        left: -5%;
+    }
+}
 
