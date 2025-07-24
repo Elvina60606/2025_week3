@@ -1,12 +1,22 @@
 
 .img-header{
-    position: relative;
+    background-image: url("../img/hero.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .title-header{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    color: var(--neutral-white);
+    text-align: center;
+    padding: 151px;
+}
+@media (max-width: 765px) {
+    .img-header{
+        background-image: url("../img/hero-sm.png");
+    }
+    .title-header{
+        padding: 87px;
+    }
 }
 .section-line{
     border-bottom: 1px solid var(--neutral-300);
